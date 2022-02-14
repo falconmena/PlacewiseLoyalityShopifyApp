@@ -1,0 +1,204 @@
+[28-Jan-2021 14:39:13 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message '[API] This action requires merchant approval for write_price_rules scope.' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 14:44:02 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message '[API] This action requires merchant approval for write_price_rules scope.' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 14:44:48 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message '[API] This action requires merchant approval for read_price_rules scope.' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(347): PHPShopify\ShopifyResource->processResponse(Array, 'price_rules')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->get()
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 14:53:52 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'Not Found' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(347): PHPShopify\ShopifyResource->processResponse(Array, 'discounts')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->get()
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:08:25 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'Not Found' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(347): PHPShopify\ShopifyResource->processResponse(Array, 'discounts')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->get()
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:09:02 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'Not Found' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(347): PHPShopify\ShopifyResource->processResponse(Array, 'discounts')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->get()
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:09:06 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'Not Found' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(347): PHPShopify\ShopifyResource->processResponse(Array, 'discounts')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->get()
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:09:25 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message '[API] This action requires merchant approval for write_price_rules scope.' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:09:30 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message '[API] This action requires merchant approval for write_price_rules scope.' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:11:43 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'value_type - can't be blank, value - can't be blank, target_type - can't be blank, target_selection - can't be blank, allocation_method - can't be blank, title - can't be blank, starts_at - can't be blank, customer_selection - can't be blank' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:17:33 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'value_type - can't be blank, value - can't be blank, target_type - can't be blank, target_selection - can't be blank, allocation_method - can't be blank, title - can't be blank, starts_at - can't be blank, customer_selection - can't be blank' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:36:23 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'target_type - can't be blank, target_selection - can't be blank, allocation_method - can't be blank, customer_selection - can't be blank' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(20): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:40:05 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'allocation_method - can't be blank, must be across for target_selection all, customer_selection - can't be blank' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(20): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:40:37 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'customer_selection - can't be blank' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:41:16 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'customer_selection - expected Array to be a String' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:44:06 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'customer_selection - a minimum of one prerequisite saved search or prerequisite customer must be provided' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(21): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:47:53 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'customer_selection - a minimum of one prerequisite saved search or prerequisite customer must be provided' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(22): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[28-Jan-2021 15:48:10 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'prerequisite_customer_ids - customer with id: 1232131232131 is invalid' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(22): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[30-Jan-2021 11:59:14 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'prerequisite_customer_ids - customer with id: 1232131232131 is invalid' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(419): PHPShopify\ShopifyResource->processResponse(Array, 'price_rule')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(22): PHPShopify\ShopifyResource->post(Array)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[30-Jan-2021 12:12:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'loyality'@'server.flexmobiapp.com' (using password: YES)' in /home/falconclients/public_html/shopify_public_app/view/discount.php:24
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/view/discount.php(24): PDO->__construct('mysql:host=falc...', 'loyality', 'mohammad1995@')
+#1 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 24
+[30-Jan-2021 12:24:29 UTC] PHP Fatal error:  Call to a member function exec() on null in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 38
+[30-Jan-2021 12:44:32 UTC] PHP Fatal error:  Call to a member function exec() on null in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 30
+[30-Jan-2021 12:46:08 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/falconclients/public_html/shopify_public_app/lib/Connection.php on line 17
+[30-Jan-2021 12:46:08 UTC] PHP Fatal error:  Call to a member function exec() on null in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 30
+[31-Jan-2021 09:49:34 UTC] PHP Fatal error:  Call to a member function exec() on null in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 30
+[31-Jan-2021 09:52:17 UTC] PHP Fatal error:  Call to a member function exec() on null in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 30
+[31-Jan-2021 09:55:20 UTC] PHP Fatal error:  Call to a member function exec() on null in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 30
+[31-Jan-2021 10:01:27 UTC] PHP Fatal error:  Call to a member function exec() on null in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 30
+[31-Jan-2021 10:05:19 UTC] PHP Fatal error:  Call to a member function exec() on null in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 30
+[31-Jan-2021 10:27:59 UTC] PHP Notice:  Undefined variable: db in /home/falconclients/public_html/shopify_public_app/lib/Discount.php on line 7
+[31-Jan-2021 10:27:59 UTC] PHP Fatal error:  Call to a member function exec() on null in /home/falconclients/public_html/shopify_public_app/lib/Discount.php on line 7
+[31-Jan-2021 10:29:24 UTC] PHP Notice:  Undefined variable: database in /home/falconclients/public_html/shopify_public_app/lib/Discount.php on line 6
+[31-Jan-2021 10:29:24 UTC] PHP Fatal error:  Call to a member function openConnection() on null in /home/falconclients/public_html/shopify_public_app/lib/Discount.php on line 6
+[31-Jan-2021 10:44:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 21
+[31-Jan-2021 10:44:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 17
+[31-Jan-2021 10:44:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 17
+[31-Jan-2021 10:44:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 17
+[31-Jan-2021 10:44:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 17
+[31-Jan-2021 10:45:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 17
+[31-Jan-2021 10:45:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 17
+[31-Jan-2021 10:45:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 18
+[31-Jan-2021 10:45:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 18
+[31-Jan-2021 10:45:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 18
+[31-Jan-2021 10:50:52 UTC] PHP Fatal error:  Call to undefined method PDO::fetch() in /home/falconclients/public_html/shopify_public_app/lib/Discount.php on line 26
+[31-Jan-2021 10:54:25 UTC] PHP Fatal error:  Call to undefined method PDO::fetchAll() in /home/falconclients/public_html/shopify_public_app/lib/Discount.php on line 26
+[31-Jan-2021 10:54:26 UTC] PHP Fatal error:  Call to undefined method PDO::fetchAll() in /home/falconclients/public_html/shopify_public_app/lib/Discount.php on line 26
+[31-Jan-2021 11:03:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/falconclients/public_html/shopify_public_app/lib/Discount.php:34
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/lib/Discount.php(34): PDOStatement->execute(Array)
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(5): Discount->getDiscountById(3)
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/lib/Discount.php on line 34
+[31-Jan-2021 12:24:14 UTC] PHP Notice:  Undefined index: post_type in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 8
+[31-Jan-2021 12:24:14 UTC] PHP Notice:  Undefined index: post_id in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 11
+[31-Jan-2021 12:24:41 UTC] PHP Notice:  Undefined index: post_type in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 8
+[31-Jan-2021 12:24:41 UTC] PHP Notice:  Undefined index: post_id in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 11
+[01-Feb-2021 19:53:46 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:53:46 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:53:46 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:53:46 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:53:48 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:53:48 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:53:49 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:53:49 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:53:51 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:53:51 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:53:57 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:53:57 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:54:03 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:54:03 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:54:04 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:54:04 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:54:07 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:54:07 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:54:38 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:54:38 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:54:41 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:54:41 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:54:52 UTC] PHP Fatal error:  Uncaught exception 'PHPShopify\Exception\ApiException' with message 'Not Found' in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php:554
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php(347): PHPShopify\ShopifyResource->processResponse(Array, 'customer')
+#1 /home/falconclients/public_html/shopify_public_app/etc/config.php(39): PHPShopify\ShopifyResource->get()
+#2 /home/falconclients/public_html/shopify_public_app/view/header.php(2): require_once('/home/falconcli...')
+#3 /home/falconclients/public_html/shopify_public_app/view/products.php(3): require_once('/home/falconcli...')
+#4 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/shopify_services/lib/ShopifyResource.php on line 554
+[01-Feb-2021 19:54:58 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:54:58 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:55:02 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:55:02 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:55:05 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:55:05 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:55:07 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:55:07 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:55:08 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:55:08 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[01-Feb-2021 19:59:53 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 32
+[01-Feb-2021 19:59:53 UTC] PHP Notice:  Undefined index: customer_id in /home/falconclients/public_html/shopify_public_app/etc/config.php on line 38
+[02-Feb-2021 12:45:44 UTC] PHP Notice:  Undefined index: type in /home/falconclients/public_html/shopify_public_app/view/discount.php on line 9
+[02-Feb-2021 12:45:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `falconclients_loyality`.`discount`.`type` at row 1' in /home/falconclients/public_html/shopify_public_app/lib/Discount.php:16
+Stack trace:
+#0 /home/falconclients/public_html/shopify_public_app/lib/Discount.php(16): PDO->exec('update `discoun...')
+#1 /home/falconclients/public_html/shopify_public_app/view/discount.php(15): Discount->update('Contact us - ba...', '6ZNWK7DMWEVW', NULL, '20', '3', '3')
+#2 {main}
+  thrown in /home/falconclients/public_html/shopify_public_app/lib/Discount.php on line 16
