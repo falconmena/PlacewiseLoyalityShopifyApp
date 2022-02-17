@@ -194,7 +194,7 @@ customers/register.liquid
         {{ form.errors.translated_fields['password'] | capitalize }} {{ form.errors.messages['password'] }}.
       </span>
     {%- endif -%}
-    <button id="techs_submit_value"> 
+    <button class="techs_submit_value"> 
       {{ 'customer.register.submit' | t }}
     </button>
     <p class="text-center" id="error_msg"></p>
