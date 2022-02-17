@@ -132,7 +132,7 @@ customers/register.liquid
       <input
         type="email"
         name="customer[email]"
-        id="RegisterForm-email"
+        class="RegisterForm-email"
         {% if form.email %} value="{{ form.email }}"{% endif %}
         spellcheck="false"
         autocapitalize="off"
