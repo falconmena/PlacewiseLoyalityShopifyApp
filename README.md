@@ -6,10 +6,6 @@ Merchant install link
 
 <img src="https://community.shopify.com/c/image/serverpage/image-id/24235i649E4B7D4DB3296A/image-size/large?v=v2&px=999" />
 
-plasewise link
-```shell
-https://shopify.placewise-services.com/install.php
-```
 ## Theme files:
 
 customers/register.liquid
