@@ -160,7 +160,7 @@ customers/register.liquid
       <input
         type="password"
         name="customer[password]"
-        id="RegisterForm-password"
+        class="RegisterForm-password"
         aria-required="true"
         {% if form.errors contains 'password' %}
           aria-invalid="true"
