@@ -74,7 +74,7 @@ customers/register.liquid
      <div class="form-check form-check-inline">
        <input class="form-check-input" type="radio" name="gender" id="loyalty_radio_gender_man"  value="man">
        <label class="form-check-label" for="loyalty_radio_gender_man">Mann </label>
-       <input class="form-check-input" type="radio" name="gender" id="loyalty_radio_gender_women"  value="women">
+       <input class="form-check-input" type="radio" name="gender" id="loyalty_radio_gender_women"  value="woman">
        <label class="form-check-label" for="loyalty_radio_gender_women">Kvinner </label>
      </div>
    </div> 
